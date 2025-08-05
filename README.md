@@ -29,7 +29,7 @@
 
 직관적인 GUI로 사용자에게 편의성을 제공함
 
---
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ba37f82-bfad-42ed-a47b-8d59e46ad541" width="49%" />
@@ -38,7 +38,7 @@
 
 드롭 다운 혹은 직접 검색 기반으로 참조 게임을 선택할 수 있음
 
---
+
 
 <img width="1248" height="706" alt="image" src="https://github.com/user-attachments/assets/d97e2058-e94b-41ae-ac34-7d832d6e2d1f" />
 
