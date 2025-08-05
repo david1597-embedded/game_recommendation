@@ -1,11 +1,9 @@
 # 🎮게임 설명 기반 스팀 무료 게임 추천 시스템
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=0,2,5&amp;height=200&amp;text=Steam%20Game%20Recommendation%20System&amp;fontSize=40&amp;fontAlign=50&amp;fontColor=ffffff&amp;desc=Exploring%20Code%20%26%20Creativity&amp;descAlign=50&amp;descSize=20" alt="Profile Banner" />
+<img width="1885" height="439" alt="image" src="https://github.com/user-attachments/assets/2907e941-2e40-4a25-a9be-716d1e9ba45f" />
 
 
-
-
-> **Steam 게임 설명 및 자연어 처리 기반 콘텐츠 추천 시스템**
+> **Steam 게임 설명 및 자연어 처리 기반 콘텐츠 추천 시스템**\
 > PyQt5를 활용한 GUI와 더불어 TF-IDF와 WordVec을 활용한 설명이 유사한 게임을 추천해주는 시스템
 
 ---
@@ -36,3 +34,26 @@
   <img src="https://github.com/user-attachments/assets/5a6f99b2-0e3c-4e40-96a9-6416fdcf3b5c" width="49%" />
 </p>
 
+---
+
+## ⚙️ Installation
+
+```
+git clone https://github.com/david1597-embedded/game_recommendation.git
+cd game_recommendation
+```
+### Windows
+
+```
+python -m venv venv
+venv\Sciprts\activate
+pip install -r requirements.py
+python main.py
+```
+### Ubuntu
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.py
+python main.py
+```
