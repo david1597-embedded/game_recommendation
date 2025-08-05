@@ -31,11 +31,27 @@
  
 ---
 
+## 📂 Dataset
+- 데이터 출처: Steam Store 무료 게임 설명 데이터 (데이터 크롤링)
+- 주요 필드: `title`, `description`
+- 주요 전처리
+  - 일어, 영어, 중국어, 러시아어 등 외국어 번역
+  - 게임관련 키워드 제외 영어 단어 제외
+  - 불용어 , 복합어 처리
+  - 토큰화
+---
+
+## 🔄Use case
+
+<img width="875" height="665" alt="image" src="https://github.com/user-attachments/assets/93c7817d-66ca-4cf0-8052-48cfaf857b20" />
+
+---
+
 ## 🖥️ Screenshots
 
 <img width="1211" height="660" alt="image" src="https://github.com/user-attachments/assets/5f00ccd6-b1bb-44ef-9bec-681e867e7dd2" />
 
-직관적인 GUI로 사용자에게 편의성을 제공함
+-직관적인 GUI로 사용자에게 편의성을 제공함
 
 
 
@@ -44,13 +60,13 @@
   <img src="https://github.com/user-attachments/assets/5a6f99b2-0e3c-4e40-96a9-6416fdcf3b5c" width="49%" />
 </p>
 
-드롭 다운 혹은 직접 검색 기반으로 참조 게임을 선택할 수 있음
+-드롭 다운 혹은 직접 검색 기반으로 참조 게임을 선택할 수 있음
 
 
 
 <img width="1248" height="706" alt="image" src="https://github.com/user-attachments/assets/d97e2058-e94b-41ae-ac34-7d832d6e2d1f" />
 
-스토어 이동 버튼 선택시 스팀 스토어로 바로 이동해 구매가능
+-스토어 이동 버튼 선택시 스팀 스토어로 바로 이동해 구매가능
 
 ---
 
