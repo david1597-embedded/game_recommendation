@@ -1,6 +1,7 @@
 # 🎮게임 설명 기반 스팀 무료 게임 추천 시스템
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=0,2,5&amp;height=200&amp;text=Steam%20Game%20Recommendation%20System&amp;fontSize=40&amp;fontAlign=50&amp;fontColor=ffffff&amp;desc=Exploring%20Code%20%26%20Creativity&amp;descAlign=50&amp;descSize=20)
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=0,2,5&amp;height=200&amp;text=Steam%20Game%20Recommendation%20System&amp;fontSize=40&amp;fontAlign=50&amp;fontColor=ffffff&amp;desc=Exploring%20Code%20%26%20Creativity&amp;descAlign=50&amp;descSize=20" alt="Profile Banner" />
+
 
 
 
