@@ -29,10 +29,20 @@
 
 직관적인 GUI로 사용자에게 편의성을 제공함
 
+--
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ba37f82-bfad-42ed-a47b-8d59e46ad541" width="49%" />
   <img src="https://github.com/user-attachments/assets/5a6f99b2-0e3c-4e40-96a9-6416fdcf3b5c" width="49%" />
 </p>
+
+드롭 다운 혹은 직접 검색 기반으로 참조 게임을 선택할 수 있음
+
+--
+
+<img width="1248" height="706" alt="image" src="https://github.com/user-attachments/assets/d97e2058-e94b-41ae-ac34-7d832d6e2d1f" />
+
+스토어 이동 버튼 선택시 스팀 스토어로 바로 이동해 구매가능
 
 ---
 
