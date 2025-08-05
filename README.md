@@ -76,7 +76,7 @@
 git clone https://github.com/david1597-embedded/game_recommendation.git
 cd game_recommendation
 ```
-### Windows
+### 💻Windows
 
 ```
 python -m venv venv
@@ -84,7 +84,7 @@ venv\Sciprts\activate
 pip install -r requirements.py
 python main.py
 ```
-### Ubuntu
+### 🐧Ubuntu
 ```
 python3 -m venv venv
 source venv/bin/activate
