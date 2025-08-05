@@ -1,6 +1,14 @@
 # 🎮게임 설명 기반 스팀 무료 게임 추천 시스템
 
+![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)
+![TF-IDF](https://img.shields.io/badge/Algorithm-TF--IDF-green)
+![Word2Vec](https://img.shields.io/badge/Algorithm-Word2Vec-orange)
+![ML](https://img.shields.io/badge/ML-Scikit--Learn-blueviolet?logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Gensim-red)
+
+
 <img width="1885" height="439" alt="image" src="https://github.com/user-attachments/assets/2907e941-2e40-4a25-a9be-716d1e9ba45f" />
+
 
 
 > **Steam 게임 설명 및 자연어 처리 기반 콘텐츠 추천 시스템**\
