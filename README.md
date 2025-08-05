@@ -16,6 +16,12 @@
 
 ---
 
+## 📝 프로젝트 개요
+
+>이 프로젝트는 Steam 게임 설명 데이터를 기반으로 TF-IDF와 Word2Vec을 활용하여 유사한 게임을 추천하는 콘텐츠 기반 추천 시스템입니다.
+>PyQt5 기반 GUI를 통해 사용자는 게임 검색, 추천 결과 확인, 유튜브 미리보기, 스토어 페이지 접근을 직관적으로 수행할 수 있습니다.
+--
+
 ## 📌 Features
 
 - 🔍 **게임 검색 & 추천**
@@ -51,7 +57,7 @@
 
 <img width="1211" height="660" alt="image" src="https://github.com/user-attachments/assets/5f00ccd6-b1bb-44ef-9bec-681e867e7dd2" />
 
--직관적인 GUI로 사용자에게 편의성을 제공함
+- 직관적인 GUI로 사용자에게 편의성을 제공함
 
 
 
