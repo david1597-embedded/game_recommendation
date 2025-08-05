@@ -1,6 +1,7 @@
 # 🎮게임 설명 기반 스팀 무료 게임 추천 시스템
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5&height=200&text=Steam%20Game%20Recommendation%20System&fontSize=40&fontAlign=50&fontColor=ffffff&desc=Exploring%20Code%20%26%20Creativity&descAlign=50&descSize=20)
+![Profile Banner](https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=0,2,5&amp;height=200&amp;text=Steam%20Game%20Recommendation%20System&amp;fontSize=40&amp;fontAlign=50&amp;fontColor=ffffff&amp;desc=Exploring%20Code%20%26%20Creativity&amp;descAlign=50&amp;descSize=20)
+
 
 
 > **Steam 게임 설명 및 자연어 처리 기반 콘텐츠 추천 시스템**
